@@ -33,5 +33,5 @@ python3 ip_info.py [target-ip]
 ```
 Eg:
 ```
-python3 ip_info.py 127.0.0.1
+python3 ip_info.py 172.217.167.142  #Google
 ```
