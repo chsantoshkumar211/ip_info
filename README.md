@@ -9,6 +9,7 @@ ip_info is a python based tool to get the information of the user's ip or any ta
 https://github.com/chsantoshkumar211/ip_info.git
 ```
 2. Install requirements
+
 python2
 ```
 sudo pip install getip2
